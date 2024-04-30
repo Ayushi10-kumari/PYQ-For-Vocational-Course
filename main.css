@@ -1,0 +1,15 @@
+body{
+    background-image: url(Pic2.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+}
+.half{
+    width: 100%;
+    text-align: left;
+    margin-top: 150px;
+    margin-right: 100px;
+}
+.half a{
+    font-size: large;
+}

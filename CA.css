@@ -1,0 +1,15 @@
+*{
+    background-color:#cbc0c0;
+}
+.form h1{
+    text-align:left;
+}
+.form{
+    text-align: left;
+    margin-top: 150px;
+    margin-left: 250px;
+    margin-right: 450px;
+    margin-bottom: 150px;
+    size: 100px;
+    font-size: larger;
+}

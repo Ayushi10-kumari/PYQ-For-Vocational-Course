@@ -1,0 +1,24 @@
+*{
+    background-color: powderblue;
+    margin-top: 0ch;
+}
+div{
+    position:relative;
+    font-size: larger;
+    text-align:center;
+
+}
+p{
+    font-size:large;
+    text-align:center;
+    
+}
+h1{
+    text-align: center;
+    letter-spacing: 1px;
+    margin-bottom: 2rem;
+}
+.btn button:hover{
+    color: red;
+}
+

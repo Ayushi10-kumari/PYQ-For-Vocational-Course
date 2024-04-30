@@ -1,0 +1,30 @@
+body{
+    background-color: #cbc0c0;
+}
+.reg-form {
+	width:500px;
+	height: 350px;
+    position: absolute;
+    margin-left: 30%;
+   
+}
+.reg-form h1{
+    font-size:20px;
+	text-align:center;
+	text-transform:uppercase;
+    
+}
+.reg-form p{
+	font-size: 20px;
+    font-weight: bold;
+}
+.reg-form button{
+	font-size:25px;
+	font-weight:bold;
+    font-family:times of roman;
+	margin-left: 200px;
+}
+.reg-form button:hover{
+	color:red;
+	
+}	
